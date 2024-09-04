@@ -1,3 +1,4 @@
+#my first even python project, so sorry for poor good practices
 
 #IMPORTING LIBRARIES
 from pygame import mixer #Song play,pause,anything
@@ -7,8 +8,8 @@ from time import sleep
 from tkinter.filedialog import askopenfilename
 import random
 from PIL import ImageTk,Image
-from tkinter import messagebox
-import mutagen
+# from tkinter import messagebox
+# import mutagen
 from mutagen.mp3 import MP3
 
 #INITIALIZING
